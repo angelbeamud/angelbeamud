@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm Angel Beamud, a passionate software developer 
 
 ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelbeamud&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=angelbeamud&theme=radical)
+
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbeamud&layout=compact&theme=radical)
