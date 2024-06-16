@@ -2,15 +2,28 @@
 
 <!--
 **angelbeamud/angelbeamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! I'm Angel Beamud, a passionate software developer who loves to create, innovate, and learn new technologies. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
+
+- 🔭 I’m currently working on developing web applications using modern JavaScript frameworks and libraries.
+- 🌱 I’m currently learning more about cloud computing and containerization with Docker and Kubernetes.
+- 👯 I’m looking to collaborate on exciting open-source projects that make a positive impact.
+- 💬 Ask me about web development, Java, JavaScript, or any tech-related topic.
+- 📫 How to reach me: [Your Email](mailto:angel23261992@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-l%C3%B3pez-beamud-865102236/)
+
+---
+
+### My GitHub Stats
+
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelbeamud&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbeamud&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you want to collaborate on a project!
+
+Thanks for visiting! 😊
