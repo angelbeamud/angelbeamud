@@ -6,10 +6,10 @@
 
 Welcome to my GitHub profile! I'm Angel Beamud, a passionate software developer who loves to create, innovate, and learn new technologies. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
 
-- 🔭 I’m currently working on developing web applications using modern Java and JavaScript frameworks and libraries.
+- 🔭 I’m currently working on developing web applications using modern Java frameworks and libraries.
 - 🌱 I’m currently learning more about cloud computing and containerization with Docker and Kubernetes.
 - 👯 I’m looking to collaborate on exciting open-source projects that make a positive impact.
-- 💬 Ask me about web development, Java, JavaScript, or any tech-related topic.
+- 💬 Ask me about web development, Java, or any tech-related topic.
 - 📫 How to reach me: [angel23261992@gmail.com](mailto:angel23261992@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-l%C3%B3pez-beamud-865102236/)
 
 ---
