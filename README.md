@@ -1,30 +1,49 @@
-### Hi there 👋
+# Hi there, I'm Ángel Beamud 👋
 
-<!--
-**angelbeamud/angelbeamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Software Engineer | Backend & Cloud Architecture
 
-Welcome to my GitHub profile! I'm Angel Beamud, a passionate software developer who loves to create, innovate, and learn new technologies. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
+I am a Software Engineer with over 5 years of experience in the tech industry. My career is focused on building robust backend systems, transitioning from application development to **System Architecture** and **Engineering Leadership**.
 
-- 🔭 I’m currently working on developing web applications using modern frameworks and libraries.
-- 🌱 I’m currently learning more about cloud computing and containerization with Docker and Kubernetes.
-- 👯 I’m looking to collaborate on exciting open-source projects that make a positive impact.
-- 📫 How to reach me: [angel23261992@gmail.com](mailto:angel23261992@gmail.com) | [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-l%C3%B3pez-beamud-865102236/)
+I prioritize **Clean Architecture**, **Scalability**, and **Best Practices** over hype cycles.
 
 ---
 
-### My GitHub Stats
+### 🎯 Engineering Philosophy
 
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelbeamud&show_icons=true&theme=radical)
+I treat frameworks and languages just as tools to solve business problems. My value lies in:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=angelbeamud&theme=radical)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelbeamud&layout=compact&theme=radical)
+* **Reliability:** Designing systems that handle errors gracefully and maintain data integrity (ACID).
+* **Scalability:** Understanding how to move from monolithic applications to distributed systems when needed.
+* **Maintainability:** Applying patterns like **Hexagonal Architecture** and **DDD** to keep codebases healthy long-term.
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you want to collaborate on a project!
+### 🛠️ Technical Stack
 
-Thanks for visiting! 😊
+I focus on mastering the ecosystem for modern backend services:
+
+* **Core:** TypeScript, Node.js, NestJS.
+* **Background:** Java Ecosystem (Spring Boot).
+* **Data:** SQL (PostgreSQL), NoSQL strategies, and Caching (Redis).
+* **Infrastructure:** Docker, Containerization, and CI/CD principles.
+
+---
+
+### 🚀 Continuous Learning
+
+My personal R&D focuses on bridging the gap between software development and operations:
+
+* Deepening knowledge in **System Design** and High Concurrency.
+* Exploring **Cloud-Native** patterns and Infrastructure as Code.
+* Studying **Distributed Systems** concepts (Consistency, Availability, Partitioning).
+
+> *Note: Most of my professional work happens in private corporate repositories. This profile serves as a summary of my technical background and professional interests.*
+
+---
+
+### 📫 Connect with me
+
+I'm always open to discussing Backend Engineering or professional opportunities.
+
+* [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-l%C3%B3pez-beamud-865102236/)
+* [Email](mailto:angel23261992@gmail.com)
